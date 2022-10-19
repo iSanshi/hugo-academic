@@ -29,8 +29,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc, School of Computer and Information Technology
-      institution: Beijing Jiaotong University
+    - course: Bachelor of Engineering
+      institution:School of Computer and Information Technology, Beijing Jiaotong University
       year: 2023
 
 # Social/Academic Networking
