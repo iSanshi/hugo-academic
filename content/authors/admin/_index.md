@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Rongtao Zhang 
-title: 张镕韬
+title: Rongtao Zhang张镕韬
 
 # Full name (for SEO)
 first_name: Rongtao
