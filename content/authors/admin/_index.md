@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rongtao Zhang张镕韬
+title: Rongtao Zhang
 
 # Full name (for SEO)
 first_name: Rongtao
@@ -18,26 +18,20 @@ organizations:
     url: https://www.bjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed reinforcement learning, robotics and computer vision.
+bio: My research interests include reinforcement learning, robotics and computer vision.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - reinforcement learning
+  - robotics
+  - computer vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc, School of Computer and Information Technology
+      institution: Beijing Jiaotong University
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
